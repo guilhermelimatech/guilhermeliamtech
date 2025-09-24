@@ -1,4 +1,3 @@
-# guilhermeliamtech
 # 👋 Olá, eu sou o Guilherme Lima  
 
 🚀 **Analista de Dados | Futuro Engenheiro de Software**  
