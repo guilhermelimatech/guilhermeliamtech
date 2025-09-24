@@ -17,7 +17,7 @@
 ## 📂 Portfólio de Projetos
 Aqui você encontra cases práticos que refletem meu mindset de **analista sênior**:
 
-- 📊 [Analyst Senior Kit Pro](https://github.com/guilhermelima/Analyst_Senior_Kit_Pro) → Template universal para projetos de dados, com foco em reprodutibilidade.  
+- 📊 [Analyst Senior Kit Pro](https://github.com/guilhermelimatech/Analyst_Senior_Kit_Pro) → Template universal para projetos de dados, com foco em reprodutibilidade.  
 - 🛒 *E-commerce Sales Analysis* → Pipeline de vendas com insights de receita, margem e churn.  
 - 🚚 *Logistics KPI Dashboard* → Monitoramento de picking, packing e eficiência operacional.  
 - 💰 *Financial Forecast* → Projeções financeiras com Python + Power BI.  
@@ -27,7 +27,7 @@ Aqui você encontra cases práticos que refletem meu mindset de **analista sêni
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/guilhermelima)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-lima-tech/)  
 - 🌍 [Portfólio](https://guilhermelimatech.com)  
 - 📧 contato@guilhermelimatech.com  
 
