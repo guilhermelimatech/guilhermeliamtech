@@ -1,55 +1,58 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/guilhermelimatech/Branding/main/guilhermelimatech_brandign.png" alt="Guilherme Lima Tech Logo" width="120"/>
+  <img src="https://raw.githubusercontent.com/guilhermelimatech/Branding/main/Guilherme_Lima_Capa.png" alt="Guilherme Lima Tech Banner"/>
 </p>
 
 ---
 
-# 👋 Olá, eu sou o Guilherme Lima  
-
-🚀 Em jornada para me tornar **Cloud Data Architect**  
-📊 Experiência prática em **Qualidade, Logística e Customer Experience no Mercado Livre**  
-☁️ Hoje em transição para **Dados & Cloud**, estudando e aplicando **SQL, Excel, Power BI e Python**  
-🎯 Minha missão: construir soluções de dados escaláveis, seguras e que gerem impacto real, sempre com fé, disciplina e equilíbrio entre carreira, família e propósito.  
+# Guilherme Lima Tech  
+**Transforming Data into Trusted Decisions**  
 
 ---
 
-## 🛠️ Stack em Construção
+## 👋 Sobre Mim  
+Sou profissional em transição para **Dados & Cloud**, com +2 anos de experiência no **Mercado Livre**, onde atuei em **Qualidade, Logística e Customer Experience** em operações de larga escala.  
+
+Hoje, aplico esse histórico analítico e de processos na área de **engenharia de dados**, construindo projetos com **SQL, Python, Power BI e Google Cloud**.  
+Minha visão é clara: **evoluir até Cloud Data Architect**, entregando soluções escaláveis, seguras e sustentáveis.  
+
+---
+
+## 🛠️ Competências Técnicas  
 - **Linguagens:** SQL · Python  
-- **Visualização:** Power BI · Excel Avançado  
+- **Data Visualization:** Power BI · Excel Avançado  
 - **Dados & Cloud:** ETL · Automação · Google Cloud (iniciante)  
 - **Ferramentas:** Git · GitHub Actions · VS Code  
 
----
-
-## 📂 Portfólio de Projetos
-Aqui você encontra cases que refletem minha visão de profissional que já pensa como arquiteto, mesmo no início da carreira:
-
-- 📊 **Analyst Senior Kit Pro** → Template universal para projetos de dados, com foco em reprodutibilidade e organização.  
-- 🛒 **E-commerce Sales Analysis** → Pipeline de vendas com insights de receita, margem e churn, simulando cenários reais de e-commerce.  
-- 🚚 **Logistics KPI Dashboard** → Monitoramento de picking, packing e eficiência operacional, destacando redução de gargalos e aumento de produtividade.  
-- 💰 **Financial Forecast** → Projeções financeiras integrando Python + Power BI, demonstrando como dados podem apoiar decisões estratégicas.  
-
-*(mais cases em construção — todos documentados, replicáveis e versionados)*  
+**Diferenciais**  
+- Mentalidade **arquitetural** desde o início da carreira  
+- Foco em **documentação e versionamento**  
+- **Automação e segurança** como pilares de cada entrega  
+- **Visão de longo prazo** → projetos pensados para escalar  
 
 ---
 
-## 🌐 Onde me encontrar
-💼 [LinkedIn](https://www.linkedin.com/in/guilhermelimatech)  
-💻 [GitHub](https://github.com/guilhermelimatech)  
-📧 contato@guilhermelimatech.com  
+## 📂 Portfólio Selecionado  
+
+- **Analyst Senior Kit Pro** → Template universal para projetos de dados, priorizando padronização, reprodutibilidade e boas práticas.  
+- **E-commerce Sales Analysis** → Pipeline de vendas com análise de receita, margem e churn, simulando cenários de e-commerce real.  
+- **Logistics KPI Dashboard** → Monitoramento de KPIs logísticos (picking, packing, eficiência), reduzindo gargalos e melhorando produtividade.  
+- **Financial Forecast** → Integração Python + Power BI para projeções financeiras aplicadas a decisões estratégicas.  
+
+*(em expansão — todos documentados e replicáveis)*  
 
 ---
 
-## 📌 Filosofia de Trabalho
-> “Um bom analista entrega gráficos.  
-> Um analista sênior entrega processos que não quebram.  
-> Um arquiteto constrói sistemas que sustentam o futuro.”  
-
-- 🔹 Documentação clara em cada projeto (README.md)  
-- 🔹 Estrutura modular e reutilizável  
-- 🔹 Automação sempre que possível  
-- 🔹 Segurança e versionamento como base  
+## 🌍 Conecte-se  
+- [LinkedIn](https://www.linkedin.com/in/guilhermelimatech)  
+- [GitHub](https://github.com/guilhermelimatech)  
+- contato@guilhermelimatech.com  
 
 ---
 
-⭐ Se algum projeto te inspirar, **deixe um Star** — isso fortalece a jornada de quem está construindo o futuro em Dados & Cloud.  
+## 📌 Filosofia Profissional  
+> “Não construo apenas dashboards.  
+> Crio processos resilientes e sistemas de dados preparados para o futuro.”  
+
+---
+
+⭐ Se algum projeto te inspirar, **deixe um Star** — cada conexão fortalece a jornada de quem constrói o futuro em **Dados & Cloud**.  
