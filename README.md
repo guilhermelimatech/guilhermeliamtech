@@ -44,7 +44,7 @@ Minha visão é clara: **evoluir até Cloud Data Architect**, entregando soluç�
 ---
 
 ## 🌍 Conecte-se  
-- [LinkedIn]([https://www.linkedin.com/in/guilherme-lima-tech/])
+- [LinkedIn](https://www.linkedin.com/in/guilherme-lima-tech/)
 - [GitHub](https://github.com/guilhermelimatech)  
 - contato@guilhermelimatech.com  
 
