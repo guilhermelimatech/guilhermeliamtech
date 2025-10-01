@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/guilhermelimatech/Branding/main/Guilherme_Lima_Capa.png" alt="Guilherme Lima Tech Banner"/>
+  <img src="https://raw.githubusercontent.com/guilhermelimatech/Branding/refs/heads/main/Guilherme%20Lima%20(21).png" alt="Guilherme Lima Tech Banner" width="100%"/>
 </p>
+
 
 ---
 
