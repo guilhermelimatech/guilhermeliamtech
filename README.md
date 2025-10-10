@@ -5,76 +5,94 @@
 
 ---
 
-# 👋 Olá, eu sou Guilherme Lima  
-
-🚀 Fundador da **Guilherme Lima Tech** — um projeto pessoal de desenvolvimento profissional nas áreas de **Dados e Cloud Computing**.  
-🎯 Missão: **Transformar dados em decisões confiáveis**, integrando gestão, tecnologia e performance.  
+<!-- Banner -->
+<h1 align="center">👋 Olá, eu sou o <strong>Guilherme Lima</strong></h1>
+<h3 align="center">🚀 Fundador da <strong>Guilherme Lima Tech</strong> | Transforming Data into Trusted Decisions</h3>
 
 ---
 
-## 🧠 Sobre Mim  
+## 🧠 Sobre Mim
 
 Sou formado em **Administração pela ETEC**, com experiência prática no **Mercado Livre**, atuando em **Logística, Qualidade e Customer Experience**.  
-Agora, estou em **transição estratégica para a área de Dados e Cloud**, construindo uma base sólida em **Excel, Power BI, SQL, Python e Google Cloud**.  
+Atualmente em **transição estratégica para a área de Dados e Cloud**, desenvolvendo habilidades em **Excel, Power BI, SQL, Python e Google Cloud**.
 
-Meu foco é unir **visão de processos empresariais** com **análise de dados** para gerar valor real e decisões baseadas em evidências.  
-> “Transforming Data into Trusted Decisions.”  
+Meu propósito é **transformar dados em decisões confiáveis**, unindo gestão, tecnologia e propósito — com excelência técnica e integridade pessoal.  
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas  
+## ⚙️ Stack & Ferramentas  
 
-| Categoria | Ferramentas |
-|------------|-------------|
-| 📊 **Análise de Dados** | Excel Avançado, Power BI, SQL |
-| 💻 **Programação** | Python (Pandas, Matplotlib), Jupyter |
-| ☁️ **Cloud & Infra** | Google Cloud Platform, Azure (iniciante) |
-| 🔧 **Automação** | Power Query, Google Sheets, VBA |
-| 🧩 **Soft Skills** | Comunicação, Resolução de Problemas, Melhoria Contínua |
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
 
 ---
 
 ## 📈 Roadmap de Evolução  
 
-✅ Fase 1 – Fundamentos de Dados (Excel, Power BI, SQL)  
-🔄 Fase 2 – Automação com Python e ETL  
-📊 Fase 3 – Modelagem e Visualização Avançada (BI e Storytelling)  
-☁️ Fase 4 – Cloud & Data Engineering (Google Cloud, BigQuery, Dataflow)  
-🏗️ Fase 5 – Arquitetura de Dados e Cloud Data Architect  
+✅ **Fase 1 – Fundamentos:** Excel, Power BI e SQL  
+🔄 **Fase 2 – Automação:** Python, ETL e Power Query  
+📊 **Fase 3 – BI Avançado:** Storytelling com Dados  
+☁️ **Fase 4 – Cloud:** Google Cloud, BigQuery e Dataflow  
+🏗️ **Fase 5 – Arquitetura:** Cloud Data Architect  
 
-> Cada repositório aqui representa uma parte dessa jornada.  
+> 💡 *Cada repositório aqui reflete uma parte dessa jornada.*
 
 ---
 
 ## 📂 Projetos em Destaque  
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| **Dashboard de Vendas** | Painel interativo com análise de performance e KPIs. | Excel, Power BI |
-| **Análise SQL – E-commerce** | Consultas e insights sobre base de pedidos e clientes. | SQL |
-| **Automação de Relatórios** | Script Python para gerar relatórios automáticos. | Python, Excel |
-| **Estudo de Cloud** | Testes práticos com Google Cloud e automação de dados. | Cloud, Python |
+| 🔹 Projeto | 💬 Descrição | ⚙️ Tecnologias |
+|------------|--------------|----------------|
+| **Dashboard de Vendas** | Painel interativo com KPIs de performance comercial. | Excel, Power BI |
+| **Análise SQL – E-commerce** | Consultas e métricas de comportamento de clientes. | SQL |
+| **Automação de Relatórios** | Script Python para relatórios automáticos. | Python, Excel |
+| **Estudos de Cloud** | Laboratório prático com Google Cloud e BigQuery. | Cloud, Python |
 
 ---
 
-## 🌐 Conecte-se comigo  
+## 🧩 Certificações & Formação  
 
-📧 **E-mail:** [contato@guilhermelimatech.com](mailto:contato@guilhermelimatech.com)  
-🌎 **Site:** [www.guilhermelimatech.com](https://www.guilhermelimatech.com)  
-💼 **LinkedIn:** [linkedin.com/in/guilherme-lima-tech](https://linkedin.com/in/guilherme-lima-tech)  
+🎓 **ETEC – Escola Técnica Estadual de São Paulo**  
+Técnico em Administração (2021–2023)  
 
----
-
-## 🕊️ Missão da Marca  
-
-A **Guilherme Lima Tech** nasceu como um projeto de fé, propósito e crescimento.  
-Meu objetivo é desenvolver excelência técnica sem perder o foco em **integridade, propósito e equilíbrio de vida**.  
-
-> 💡 “Trabalhar com dados é mais do que números — é aprender a ver com clareza o que os olhos não veem.”  
+🏅 **Certificações:**  
+- Lean Six Sigma White Belt – Mercado Livre  
+- Excel Avançado – Fundação Bradesco  
+- Power BI para Negócios – DIO  
+- Google Cloud Fundamentals – Coursera  
 
 ---
 
-### 🧾 Assinatura  
+## 🌍 Onde me encontrar  
 
-**Guilherme Lima Tech**  
-*Transforming Data into Trusted Decisions.*
+<p align="center">
+  <a href="mailto:contato@guilhermelimatech.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-lima-tech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.guilhermelimatech.com" target="_blank"><img src="https://img.shields.io/badge/Site-1E1E1E?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/guilhermelimatech" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## ✝️ Missão e Valores  
+
+A **Guilherme Lima Tech** nasceu com propósito, fé e visão de futuro.  
+Busco excelência técnica, mas também **equilíbrio espiritual, familiar e profissional**.  
+
+> 🕊️ “Trabalhar com dados é mais do que números — é aprender a ver com clareza o que os olhos não veem.”  
+
+---
+
+## 🧾 Assinatura  
+
+<p align="center">
+  <strong>Guilherme Lima Tech</strong><br/>
+  <em>Transforming Data into Trusted Decisions</em><br/><br/>
+  <img src="https://img.shields.io/badge/Dados%20%26%20Cloud%20Solutions-0059b3?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
