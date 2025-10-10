@@ -5,55 +5,76 @@
 
 ---
 
-# Guilherme Lima Tech  
-**Transforming Data into Trusted Decisions**  
+# 👋 Olá, eu sou Guilherme Lima  
+
+🚀 Fundador da **Guilherme Lima Tech** — um projeto pessoal de desenvolvimento profissional nas áreas de **Dados e Cloud Computing**.  
+🎯 Missão: **Transformar dados em decisões confiáveis**, integrando gestão, tecnologia e performance.  
 
 ---
 
-## 👋 Sobre Mim  
-Sou profissional em transição para **Dados & Cloud**, com +2 anos de experiência no **Mercado Livre**, onde atuei em **Qualidade, Logística e Customer Experience** em operações de larga escala.  
+## 🧠 Sobre Mim  
 
-Hoje, aplico esse histórico analítico e de processos na área de **engenharia de dados**, construindo projetos com **SQL, Python, Power BI e Google Cloud**.  
-Minha visão é clara: **evoluir até Cloud Data Architect**, entregando soluções escaláveis, seguras e sustentáveis.  
+Sou formado em **Administração pela ETEC**, com experiência prática no **Mercado Livre**, atuando em **Logística, Qualidade e Customer Experience**.  
+Agora, estou em **transição estratégica para a área de Dados e Cloud**, construindo uma base sólida em **Excel, Power BI, SQL, Python e Google Cloud**.  
 
----
-
-## 🛠️ Competências Técnicas  
-- **Linguagens:** SQL · Python  
-- **Data Visualization:** Power BI · Excel Avançado  
-- **Dados & Cloud:** ETL · Automação · Google Cloud (iniciante)  
-- **Ferramentas:** Git · GitHub Actions · VS Code  
-
-**Diferenciais**  
-- Mentalidade **arquitetural** desde o início da carreira  
-- Foco em **documentação e versionamento**  
-- **Automação e segurança** como pilares de cada entrega  
-- **Visão de longo prazo** → projetos pensados para escalar  
+Meu foco é unir **visão de processos empresariais** com **análise de dados** para gerar valor real e decisões baseadas em evidências.  
+> “Transforming Data into Trusted Decisions.”  
 
 ---
 
-## 📂 Portfólio Selecionado  
+## ⚙️ Tecnologias e Ferramentas  
 
-- **Analyst Senior Kit Pro** → Template universal para projetos de dados, priorizando padronização, reprodutibilidade e boas práticas.  
-- **E-commerce Sales Analysis** → Pipeline de vendas com análise de receita, margem e churn, simulando cenários de e-commerce real.  
-- **Logistics KPI Dashboard** → Monitoramento de KPIs logísticos (picking, packing, eficiência), reduzindo gargalos e melhorando produtividade.  
-- **Financial Forecast** → Integração Python + Power BI para projeções financeiras aplicadas a decisões estratégicas.  
-
-*(em expansão — todos documentados e replicáveis)*  
-
----
-
-## 🌍 Conecte-se  
-- [LinkedIn](https://www.linkedin.com/in/guilherme-lima-tech/)
-- [GitHub](https://github.com/guilhermelimatech)  
-- contato@guilhermelimatech.com  
+| Categoria | Ferramentas |
+|------------|-------------|
+| 📊 **Análise de Dados** | Excel Avançado, Power BI, SQL |
+| 💻 **Programação** | Python (Pandas, Matplotlib), Jupyter |
+| ☁️ **Cloud & Infra** | Google Cloud Platform, Azure (iniciante) |
+| 🔧 **Automação** | Power Query, Google Sheets, VBA |
+| 🧩 **Soft Skills** | Comunicação, Resolução de Problemas, Melhoria Contínua |
 
 ---
 
-## 📌 Filosofia Profissional  
-> “Não construo apenas dashboards.  
-> Crio processos resilientes e sistemas de dados preparados para o futuro.”  
+## 📈 Roadmap de Evolução  
+
+✅ Fase 1 – Fundamentos de Dados (Excel, Power BI, SQL)  
+🔄 Fase 2 – Automação com Python e ETL  
+📊 Fase 3 – Modelagem e Visualização Avançada (BI e Storytelling)  
+☁️ Fase 4 – Cloud & Data Engineering (Google Cloud, BigQuery, Dataflow)  
+🏗️ Fase 5 – Arquitetura de Dados e Cloud Data Architect  
+
+> Cada repositório aqui representa uma parte dessa jornada.  
 
 ---
 
-⭐ Se algum projeto te inspirar, **deixe um Star** — cada conexão fortalece a jornada de quem constrói o futuro em **Dados & Cloud**.  
+## 📂 Projetos em Destaque  
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| **Dashboard de Vendas** | Painel interativo com análise de performance e KPIs. | Excel, Power BI |
+| **Análise SQL – E-commerce** | Consultas e insights sobre base de pedidos e clientes. | SQL |
+| **Automação de Relatórios** | Script Python para gerar relatórios automáticos. | Python, Excel |
+| **Estudo de Cloud** | Testes práticos com Google Cloud e automação de dados. | Cloud, Python |
+
+---
+
+## 🌐 Conecte-se comigo  
+
+📧 **E-mail:** [contato@guilhermelimatech.com](mailto:contato@guilhermelimatech.com)  
+🌎 **Site:** [www.guilhermelimatech.com](https://www.guilhermelimatech.com)  
+💼 **LinkedIn:** [linkedin.com/in/guilherme-lima-tech](https://linkedin.com/in/guilherme-lima-tech)  
+
+---
+
+## 🕊️ Missão da Marca  
+
+A **Guilherme Lima Tech** nasceu como um projeto de fé, propósito e crescimento.  
+Meu objetivo é desenvolver excelência técnica sem perder o foco em **integridade, propósito e equilíbrio de vida**.  
+
+> 💡 “Trabalhar com dados é mais do que números — é aprender a ver com clareza o que os olhos não veem.”  
+
+---
+
+### 🧾 Assinatura  
+
+**Guilherme Lima Tech**  
+*Transforming Data into Trusted Decisions.*
